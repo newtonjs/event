@@ -44,4 +44,4 @@ You can find a copy of this license at http://www.opensource.org/licenses/mit
 
 <!-- Links -->
 [travis]: https://travis-ci.org/newtonjs/event
-[travis-status]: https://secure.travis-ci.org/newtonjs/event.png?branch=0.2.x
+[travis-status]: https://travis-ci.org/newtonjs/event.png?branch=master
