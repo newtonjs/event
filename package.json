@@ -21,7 +21,7 @@
     "url": "https://github.com/newtonjs/event.git"
   },
 
-  "main": "./src/index.js",
+  "main": "./src/event.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --ui tdd --reporter spec test"
   },
