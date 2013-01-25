@@ -2,7 +2,7 @@
 
 Really basic event dispatching. Nothing fancy.
 
-**Version:** *0.1.0*<br/>
+**Version:** *0.1.2*<br/>
 **Build status:** [![Build Status][travis-status]][travis]
 
 
