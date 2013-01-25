@@ -55,22 +55,6 @@
 
         });
 
-        suite('persistance:', function () {
-            var foo;
-            var emit = require(modulePath).emit;
-            var on = require(modulePath).on;
-
-            setup(function () {
-                foo = spy();
-                on('foo', foo);
-            });
-
-            test('Emitting subscribed event calls subscribers', function () {
-                emit('foo');
-                assert.isTrue(foo.calledOnce);
-            });
-        });
-
     });
 
 }());
